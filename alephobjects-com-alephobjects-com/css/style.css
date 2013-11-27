@@ -1,0 +1,107 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:top;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}
+html {height:100%; overflow-x:hidden; min-width:940px; background:url(../img/bgtile.jpg);}
+body {font:13px/20px "montserrat", sans-serif; height:100%; line-height:1.5; color:#333;}
+
+.clear {display:block; clear:both; height:0; width:0;}
+a {text-decoration:none; color:#483c93;}
+strong {font-weight:bold;}
+
+h1, h2, h3, h4 {font-weight:normal; line-height:1;}
+
+h1 {color:#222; font-family: 'onramp', serif; font-size:3.6em;}
+h2 {color:#e5732a;}
+h3 {color:#222; font-family: 'onramp', serif; font-size:3em;}
+h4 {color:#e5732a; font-weight:bold;}
+
+.button {background: #BAD315 url(../img/buttonbg.jpg) no-repeat bottom right; font-family: 'onramp', serif; color:#000; padding: 2px 12px 2px 8px; text-transform:uppercase; font-size:22px; display:inline-block; clear:both;}
+
+/* Blue: 483c93 */
+/* Orange: e5732a */
+/* Green: BAD315 */
+
+/* Main */
+.outer {width:960px; background:#fff; margin: auto; border-left:1px solid #222; border-right:1px solid #222;  border-bottom:1px solid #222; padding: 30px 0;}
+.main {min-height:650px;  padding: 10px; clear:both;}
+
+.header {padding:10px;float:left;}
+.logo {display:block; }
+
+.nav { clear:left; padding: 16px 0 0;}
+.nav a {color:#000; padding: 2px 4px; font-size:13px;}
+.nav a.active {color:#483c93;}
+
+.page-snippet {float:left;width:576px; padding: 20px;}
+.page-snippet h2 {color:#e5732a; font-size:1.6em; padding-bottom:6px;}
+
+.sec {border:1px solid #aaa; position:relative;}
+
+.column {padding: 20px 20px 34px;}
+
+/* Home */
+.home .column {background: url(../img/homesecbg.png) no-repeat; width: 264px; height: 568px; float:left; margin-right:5px;}
+.home .column h1 {text-align:center; line-height: 64px;}
+.home .column p {padding: 14px 0;}
+
+.widget {margin: 10px 0;}
+.contact-us {border:1px solid #ccc; width: 280px; padding: 10px; float:left; margin-right:6px;}
+.contact-us span {display:block;}
+.contact-us h3 {border-bottom:1px solid #ccc; margin:0 0 14px; padding: 0px 10px 10px;}
+
+.getting-started {background: url(../img/startedsecbg.png) no-repeat; padding: 20px 20px 34px; width: 264px; height: 464px;}
+.getting-started h3 {line-height:26px; font-size:36px; padding-top:10px; border-top:1px solid #ddd; margin-top:8px;}
+.getting-started .lulzbotlogo {max-width: 108px; margin-top: 14px;}
+.getting-started p {float:right; width: 140px; padding: 6px; margin-top:6px}
+.getting-started img {float:left;}
+
+.home-lulzbot {background: url(../img/homebotsecbg.png) no-repeat; float:left; width:576px; padding: 20px 34px 20px 20px; margin-top:6px; height:242px}
+.home-lulzbot img {float:left;}
+.home-lulzbot .right-sec {float:right; width:294px;}
+.home-lulzbot .right-sec h3 {line-height:28px; font-size:40px; padding:0 0 12px 10px; border-bottom: 1px solid #ddd; margin-bottom:10px;}
+.home-lulzbot .right-sec p {float:right; width:154px;}
+
+/* About */
+.two-third {width:600px; float:left; margin-right:30px;}
+.one-third {width:302px; float:left;}
+
+.about-sec {background: url(../img/aboutsecbg.png) no-repeat; width:584px; height: 208px; padding: 20px 20px 34px; margin-bottom:10px;}
+.about-sec > img {margin: 20px 0;}
+.about-sec .bio {float:right; width:378px;}
+.about-sec .bio h1 {font-size:38px; line-height:24px;}
+.about-sec .bio h3 {font-size:26px; line-height:26px; padding-bottom:8px; border-bottom: 1px solid #ddd; margin-bottom:10px;}
+
+/* Media */
+.media-sec {background: url(../img/mediasecbg.png) no-repeat; margin:10px 0; padding: 20px 20px 34px; width:584px; height:138px;}
+
+.media-sec h3 {line-height:26px; padding-bottom:10px;}
+.media-sec .right-sec {float:right; width:378px;}
+.media .video {box-shadow: 16px 6px 0 2px rgba(0,0,0,.08); margin-left:10px; margin-bottom:10px;}
+.media-button {background: url(../img/mediabuttonbg.png) no-repeat; font-family: 'onramp', serif; font-size:30px; color:#fff; display:block; line-height:30px; padding: 4px 10px; width:584px;}
+
+/* Contact */
+.contact-big {background: url(../img/contactbigsecbg.png) no-repeat; padding: 20px 20px 34px; width:584px; height:264px;}
+.map {height:264px; width: 318px; border:1px solid #aaa; float:left;}
+.contact-big h1 {padding-bottom:14px; line-height:36px;}
+.contact-big .right-sec {float:right; width: 245px;}
+.contact-big span {display:block}
+
+/* Font Faces */
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat-regular-webfont.eot');
+    src: url('../fonts/montserrat-regular-webfont.eot') format('embedded-opentype'),
+         url('../fonts/montserrat-regular-webfont.woff') format('woff'),
+         url('../fonts/montserrat-regular-webfont.ttf') format('truetype'),
+         url('../fonts/montserrat-regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'onramp';
+    src: url('../fonts/onramp-webfont.eot');
+    src: url('../fonts/onramp-webfont.eot') format('embedded-opentype'),
+         url('../fonts/onramp-webfont.woff') format('woff'),
+         url('../fonts/onramp-webfont.ttf') format('truetype'),
+         url('../fonts/onramp-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

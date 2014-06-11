@@ -78,7 +78,7 @@ h4 {color:#e5732a; font-weight:bold;}
 .media-button {background: url(../img/mediabuttonbg.png) no-repeat; font-family: 'onramp', serif; font-size:30px; color:#fff; display:block; line-height:30px; padding: 4px 10px; width:584px;}
 
 /* Contact */
-.contact-big {background: url(../img/contactbigsecbg.png) no-repeat; padding: 20px 20px 34px; width:584px; height:264px;}
+.contact-big {background: url(../img/contactbigsecbg.png) no-repeat; padding: 20px 20px 34px; width:584px; height:335px;}
 .map {height:264px; width: 318px; border:1px solid #aaa; float:left;}
 .contact-big h1 {padding-bottom:14px; line-height:36px;}
 .contact-big .right-sec {float:right; width: 245px;}

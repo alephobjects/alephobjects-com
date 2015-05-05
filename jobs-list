@@ -84,7 +84,7 @@
 <div id="q30" style="display:none;">
 
     <div>
-      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently accepting applications for the full time position: Mechanical Engineer.</p><br>
+      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently accepting applications for the full time position: Manufacturing Engineer.</p><br>
 		<p>Requirements:</p>
       <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
         <li>Engineering Degree in pertinent field</li>
@@ -222,6 +222,47 @@
       <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is searching for a front office receptionist. Job duties will include greeting customers, answering and screening phone calls and emails, and performing basic administrative support tasks. Other duties may be delegated, depending on experience.</p><br>
       <p>Basic computer skills are required. Any experience with the GNU/Linux operating system is welcomed.</p><br>
       <p>Please send your resume to <a href="mailto:jobs@alephobjects.com">jobs@alephobjects.com</a>. Any relevant experience or knowledge of 3D printers should also be noted.</p><br>
+    </div></div>
+-->
+
+<!--Sales Associate
+<a href="javascript: void(0);" onClick="toggle('q10')"><h4 style="margin: 10px 0 0 0;">Sales Associate</h4></a>
+<div id="q10" style="display:none;">
+    <div>
+      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently searching for a Sales Associate.</p><br>
+      <p>Desired skills include:</p>
+      <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+        <li>Must be customer focused and service oriented</li>
+        <li>Ability to develop a complete and broad technical knowledge of products and industry trends</li>
+        <li>Ability to learn new skills, adapt to changing environments and show attention to detail </li>
+        <li>Good organizational skills</li>
+        <li>Strong interpersonal skills and an ability to work with teams</li>
+        <li>Excellent communication (both written and verbal) and presentation skills </li>
+        <li>Proficient problem solving and analytical ability</li>
+        <li>Must be proficient with office productivity software </li>
+        <li>Coordinating with others within the company to insure high levels of customer satisfaction</li>
+      </ol><br>
+      <p>Please send your resume to <a href="mailto:jobs@alephobjects.com">jobs@alephobjects.com</a>. Please note any relevant experience or knowledge of 3D printers or Free Open Source Software.</p><br>
+    </div></div>
+-->
+
+<!--Sales Support Associate
+<a href="javascript: void(0);" onClick="toggle('q10')"><h4 style="margin: 10px 0 0 0;">Sales Support Associate</h4></a>
+<div id="q10" style="display:none;">
+    <div>
+      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently searching for a Sales Support Associate.</p><br>
+      <p>ESSENTIAL FUNCTIONS:</p>
+      <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+        <li>Responsible for verifying that all files, computer generated shared documents, sales quotations, and sales orders, are current, accurate, and accessible</li>
+        <li>Verify and process internet sales orders</li>
+        <li>Receives incoming calls, assist customers on the phone with inside sales orders</li>
+        <li>Respond to customer sales leads via email responding to incoming correspondence and ensure a timely response. </li>
+        <li>Act as final review of all completed sales orders prior to shipment.</li>
+        <li>Handles a variety of sensitive situations and problem-solves on ones own initiative, advising the sales manager of actions taken.  Independently responds to customer calls and emails. </li>
+        <li>Provides feedback for streamlining processes and increasing efficiency for the sales department.</li>
+        <li>Maintains a professional office environment at all times. </li>
+      </ol><br>
+      <p>Please send your resume to <a href="mailto:jobs@alephobjects.com">jobs@alephobjects.com</a>. Please note any relevant experience or knowledge of 3D printers or Free Open Source Software.</p><br>
     </div></div>
 -->
 

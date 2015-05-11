@@ -189,6 +189,34 @@
     </div></div>
 -->
 
+<!--Purchasing Assistant
+<a href="javascript: void(0);" onClick="toggle('q108')"><h4 style="margin: 10px 0 0 0;">Purchasing Assistant</h4></a>
+<div id="q108" style="display:none;">
+
+    <div>
+      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently searching for a Purchasing Assistant. The role will be responsible for maintaining procurement activities required to meet the needs of current projects utilizing existing Bill of Materials (BOM). Additionally, this position with be responsible for monitoring supplier activity to ensure optimal performance and quality for all purchases.</p><br>
+    </div>
+      <ul style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">Key Responsibilities: 
+          <li>Maintain and update inventory & Bill of Material database</li>
+          <li>Become familiar with materials and manufacturing processes</li>
+          <li>Assist in determining purchasing needs through inventory maintenance activities</li>
+          <li>Maintain procurement records such as items or services purchased, costs, delivery, product quality or performance, and inventories.</li>
+          <li>Prepare quote requests and purchase orders</li>
+          <li>Communicates with vendors on lead time and logistics for orders</li>
+          <li>Organizing and tracking purchase order confirmations</li>
+      </ul><br>
+		<ul style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">Requirements: 
+          <li>High School Diploma or equivalent; Associate or Bachelor Degree in related field is a plus</li>
+          <li>Minimum of 2 years prior experience in a purchasing capacity, preferably in a manufacturing enterprise</li>
+          <li>Proficient with office software and word processing applications, strong spreadsheet skills </li>
+          <li>Previous experience with ERP or MRP systems is preferred</li>
+          <li>Excellent oral and written communication skills</li>
+          <li>Detail oriented and well organized</li>
+          <li>High level of initiative and independent judgment</li>
+      </ul><br>
+    </div>
+-->
+
 <!--Purchasing/Supply Chain Manager
 <a href="javascript: void(0);" onClick="toggle('q8')"><h4 style="margin: 10px 0 0 0;">Purchasing / Supply Chain Manager</h4></a>
 <div id="q8" style="display:none;">

@@ -56,7 +56,7 @@ h4 {color:#e5732a; font-weight:bold;}
 .home-lulzbot {background: url(../img/homebotsecbg.png) no-repeat; float:left; width:576px; padding: 20px 34px 20px 20px; margin-top:6px; height:242px}
 .home-lulzbot img {float:left;}
 .home-lulzbot .right-sec {float:right; width:294px;}
-.home-lulzbot .right-sec h3 {line-height:28px; font-size:40px; padding:0 0 12px 10px; border-bottom: 1px solid #ddd; margin-bottom:10px;}
+.home-lulzbot .right-sec h3 {line-height:28px; font-size:33px; padding:0 0 12px 10px; border-bottom: 1px solid #ddd; margin-bottom:10px;}
 .home-lulzbot .right-sec p {float:right; width:154px;}
 
 /* About */
@@ -97,11 +97,7 @@ h4 {color:#e5732a; font-weight:bold;}
 }
 @font-face {
     font-family: 'onramp';
-    src: url('../fonts/onramp-webfont.eot');
-    src: url('../fonts/onramp-webfont.eot') format('embedded-opentype'),
-         url('../fonts/onramp-webfont.woff') format('woff'),
-         url('../fonts/onramp-webfont.ttf') format('truetype'),
-         url('../fonts/onramp-webfont.svg') format('svg');
+    src: url('../fonts/Outage.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

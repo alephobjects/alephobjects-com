@@ -16,11 +16,11 @@
 		<p style="margin-top: 10px;">This position requires a high school diploma or its equivalent. May be required to complete an apprenticeship and/or formal training in area of specialty. Prefers 2-5 years of industry experience.
     </div></div>
 
-<!--Customer Support Rep-->
-<a href="javascript: void(0);" onClick="toggle('q4')"> <h4 style="margin: 10px 0 0 0;">Customer Support Representative</h4></a>
+<!--Technical Support Rep-->
+<a href="javascript: void(0);" onClick="toggle('q4')"> <h4 style="margin: 10px 0 0 0;">Technical Support Representative</h4></a>
 <div id="q4" style="display:none;">  <div>
     <div>
-      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is searching for a full time Customer Support Representative. Job responsibilities will include answering support phone calls and emails. Other tasks may be delegated as needed, depending on experience. Experience with 3D printers, specifically LulzBot and RepRap hardware printers and hardware, is highly desired. Support inquiries will range from LulzBot.com store functions, such as customer account and shipping questions, to technical questions about LulzBot 3D printers and hardware.</p><br>
+      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is searching for a full time Technical Support Representative. Job responsibilities will include answering support phone calls and emails. Other tasks may be delegated as needed, depending on experience. Experience with 3D printers, specifically LulzBot and RepRap hardware 3D printers and hardware, is highly desired. Support inquiries will range from LulzBot.com store functions, such as customer account and shipping questions, to technical questions about LulzBot 3D printers and hardware. This position can require evening and weekend hours.</p><br>
 
       <p>Please send your resume to <a href="mailto:jobs@alephobjects.com">jobs@alephobjects.com</a>. Any other relevant work or research on 3D printers such as blogs or documentation that exemplifies your experience and knowledge of 3D printers is also welcome. Please list if you will be available for full or part-time hours. Wage will be determined by experience.</p><br>
     </div></div></div>

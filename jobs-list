@@ -391,6 +391,89 @@
 </div>
 -->
 
+
+<!--Senior System Administrator -->
+<a href="javascript: void(0);" onClick="toggle('q400')"><h4 style="margin: 10px 0 0 0;">Senior System Administrator</h4></a>
+<div id="q400" style="display:none;">
+
+    <div>
+		<p style="margin: 10px 0 0 0;">The System Administrator (SA) is responsible for effective provisioning, installation/configuration, operation, and maintenance of systems hardware and software and related infrastructure. This individual participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that system hardware, operating systems, software systems, and related procedures adhere to organizational values, enabling staff, volunteers, and Partners.</p><br>
+		<p>This individual is accountable for the following systems: Debian GNU/Linux systems that support Free Software, Libre Innovation, and Open Source Hardware. Responsibilities on these systems include SA engineering and provisioning, operations and support, maintenance and research and development to ensure continual innovation.</p><br>
+      <p>SA Engineering and Provisioning</p>
+      <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+          <li>Engineering of SA-related solutions for various project and operational needs.</li>
+          <li>Install new / rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements. </li>
+          <li>Install and configure systems such as supports Free Software applications.</li>
+          <li>Develop and maintain installation and configuration procedures. </li>
+          <li>Contribute to and maintain system standards.</li>
+          <li>Research and recommend innovative, and where possible automated approaches for system administration tasks. Identify approaches that leverage our resources and provide economies of scale. </li>
+      </ol><br>
+	<p>Operations and Support </p>
+		<ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+          <li>Perform daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups.</li>
+          <li>Perform regular security monitoring to identify any possible intrusions.</li>
+          <li>Perform daily backup operations, ensuring all required file systems and system data are successfully backed up to the appropriate media, recovery tapes or disks are created, and media is recycled and sent off site as necessary.</li>
+          <li>Perform regular file archival and purge as necessary.</li>
+          <li>Create, change, and delete user accounts per request.</li>
+          <li>Provide Tier III/other support per request from various constituencies. Investigate and troubleshoot issues.</li>
+	      <li>Repair and recover from hardware or software failures. Coordinate and communicate with impacted constituencies. </li>
+      </ol><br>
+	<p>Maintenance </p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities. Configure / add new services as necessary. </li>
+          <li>Upgrade and configure system software that supports operational needs. </li>
+          <li>Maintain operational, configuration, or other procedures. </li>
+          <li>Perform periodic performance reporting to support capacity planning. </li>
+          <li>Perform ongoing performance tuning, hardware upgrades, and resource optimization as required. Configure CPU, memory, and disk partitions as required. </li>
+          <li>Maintain data center environmental and monitoring equipment.</li>
+      </ol><br>
+	<p>KNOWLEDGE/SKILLS</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Bachelor (4-year) degree, with a technical major, such as engineering or computer science, or equivalent experience.  </li>
+          <li>Four to six years system administration experience. </li>
+      </ol><br>
+	<p>COMPLEXITY/PROBLEM SOLVING</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Position deals with a variety of problems and sometime has to decide which answer is best. The question/issues are typically clear and requires determination of which answer (from a few choices) is the best. </li>
+      </ol><br>
+	<p>DISCRETION/LATITUDE/DECISION-MAKING</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Decisions normally have a noticeable effect department-wide and company-wide, and judgment errors can typically require one to two weeks to correct or reverse. </li>
+      </ol><br>
+	<p>RESPONSIBILITY/OVERSIGHT - FINANCIAL & SUPERVISORY</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>Functions as a lead worker doing the work similar to those in the work unit; responsibility for training, instruction, setting the work pace, and possibly evaluating performance. </li>
+		<li>No budget responsibility.</li>
+      </ol><br>
+	<p>COMMUNICATIONS/INTERPERSONAL CONTACTS</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>Interpret and/or discuss information with others, which involves terminology or concepts not familiar to many people; regularly provide advice and recommend actions involving rather complex issues. May resolve problems within established practices. </li>
+		<li>Provides occasional guidance, some of which is technical. </li>
+      </ol><br>
+	<p>WORKING CONDITIONS/PHYSICAL EFFORT</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>Responsibilities sometimes require working evenings and weekends, sometimes with little advanced notice </li>
+		<li>No regular travel required.</li>
+      </ol><br>
+	<p>REQUIRED EXPERIENCE WITH:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>Debian GNU/Linux</li>
+		<li>Apache</li>
+		<li>Asterisk</li>
+		<li>DHCP</li>
+		<li>iptables</li>
+		<li>Munin</li>
+		<li>MySQL</li>
+		<li>OpenLDAP</li>
+		<li>OpenSSH</li>
+		<li>OpenVPN</li>
+		<li>Piwik</li>
+		<li>phpBB</li>
+      </ol><br>
+</div>
+</div>
+
+
 <!--Shipping and Receiving Clerk
 <a href="javascript: void(0);" onClick="toggle('q7')"><h4 style="margin: 10px 0 0 0;">Shipping and Receiving Clerk</h4></a>
 <div id="q7" style="display:none;">

@@ -53,10 +53,54 @@
     </div></div></div>
 
 <!--CFO
-<a href="javascript: void(0);" onClick="toggle('q3')"><h4 style="margin: 10px 0 0 0;">Chief Financial Officer</h4></a>
-<div id="q3" style="display:none;">  <div>
-      <p style="margin: 10px 0 0 0;">Aleph Objects, Inc. is currently searching for a Chief Financial Officer. For more information about this position please email <a href="mailto:jobs@alephobjects.com">jobs@alephobjects.com</a></p><br>
-    </div></div>
+<a href="javascript: void(0);" onClick="toggle('q400')"><h4 style="margin: 10px 0 0 0;">Chief Financial Officer</h4></a>
+<div id="q400" style="display:none;">
+
+    <div>
+		<p style="margin: 10px 0 0 0;">Aleph Objects is searching for a full time Chief Financial Officer to direct the organization's financial planning and accounting practices as well as its relationship with lending institutions, shareholders, and the financial community by performing the following duties personally or through subordinate managers.</p><br>
+      <p>Essential Duties and Responsibilities include the following.</p>
+      <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+          <li>Oversees and directs treasury, budgeting, audit, tax, accounting, purchasing, real estate, long range forecasting, and insurance activities for the organization.</li>
+          <li>Directs the Senior Accountant in providing and directing procedures and computer application systems necessary to maintain proper records and to afford adequate accounting controls and services.</li>
+          <li>Advises the treasurer in activities such as custodian of funds, securities, and assets of the organization.</li>
+          <li>Appraises the organization's financial position and issues periodic reports on organization's financial stability, liquidity, and growth.</li>
+          <li>Directs and coordinates the establishment of budget programs.</li>
+          <li>Coordinates tax reporting programs and investor relations activities.</li>
+          <li>Analyzes, consolidates, and directs all cost accounting procedures together with other statistical and routine reports.</li>
+          <li>Evaluates and recommends business partnering opportunities.</li>
+          <li>Establishes and maintains contacts with stockholders, financial institutions, and the investment community.</li>
+          <li>Other duties may be assigned.</li>
+      </ol><br>
+	<p>Qualifications:</p>
+		<ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
+          <li>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</li>
+      </ol><br>
+	<p>Education/Experience:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Master's degree (M. A.) or equivalent; or four to ten years related experience and/or training; or equivalent combination of education and experience in finance for manufacturing.  Experience with an ESOP preferred.</li>
+      </ol><br>
+	<p>Computer Skills:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>ERP or OpenERP accounting software experience required.</li>
+      </ol><br>
+	<p>Language Ability:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Ability to read, analyze, and interpret general business periodicals, professional journals, technical procedures, or governmental regulations. Ability to write reports, business correspondence, and procedure manuals. Ability to effectively present information and respond to questions from groups of managers, clients, customers, and the general public.</li>
+      </ol><br>
+	<p>Math Ability:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+          <li>Ability to apply advanced mathematical concepts such as exponents, logarithms, quadratic equations, and permutations. Ability to apply mathematical operations to such tasks as frequency distribution, determination of test reliability and validity, analysis.</li>
+      </ol><br>
+	<p>Reasoning Ability:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.</li>
+      </ol><br>
+	<p>Work Environment:</p>
+      <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
+		<li>The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.  The noise level in the work environment is usually moderate.</li>
+      </ol><br>
+</div>
+</div>
 -->
 
 <!--EE

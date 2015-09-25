@@ -435,7 +435,6 @@
 </div>
 -->
 
-
 <!--Senior System Administrator -->
 <a href="javascript: void(0);" onClick="toggle('q400')"><h4 style="margin: 10px 0 0 0;">Senior System Administrator</h4></a>
 <div id="q400" style="display:none;">
@@ -496,10 +495,13 @@
       </ol><br>
 	<p>WORKING CONDITIONS/PHYSICAL EFFORT</p>
       <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
-		<li>Responsibilities sometimes require working evenings and weekends, sometimes with little advanced notice </li>
+		<li>Responsibilities sometimes require working evenings and weekends, sometimes with little advanced notice</li>
+		<li>This is an on-site position and remote workers are not being considered.</li>
+		<li>Compensation for relocation is not available for this position.</li>
+		<li>No visa sponsorship is available for this position.</li>
 		<li>No regular travel required.</li>
       </ol><br>
-	<p>REQUIRED EXPERIENCE WITH:</p>
+	<p>DESIRED EXPERIENCE WITH:</p>
       <ol style="border-top:0px; margin-top:0px; padding-top:5px;list-style: square; list-style-position: inside;">
 		<li>Debian GNU/Linux</li>
 		<li>Apache</li>

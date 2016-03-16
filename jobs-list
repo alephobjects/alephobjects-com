@@ -584,17 +584,16 @@
 <a href="javascript: void(0);" onClick="toggle('q4')"> <h4 style="margin: 10px 0 0 0;">Sales Account Manager</h4></a>
 <div id="q4" style="display:none;">  <div>
     <div>
-      <p style="margin: 10px 0 0 0;">The Sales Account Manager is responsible for developing new account portfolios including enterprise accounts through incoming leads and lead generation strategies. This individual will work to ensure high levels of communication with existing customer accounts and enterprise accounts, making sure all needs are met. This exists primarily within the sales department to help increase sales while providing best in class customer service.</p><br>
+      <p style="margin: 10px 0 0 0;">The Sales Account Manager is responsible for developing new account portfolios including reseller, wholesale, and enterprise accounts through incoming leads and lead generation strategies. This individual will work to ensure high levels of communication with existing customer accounts and enterprise accounts, making sure all needs are met.</p><br>
 		<p>Role and Responsibilities:</p>
       <ol start="1" style="border-top:0px; margin-left:10px; padding-top:0px;list-style: square; list-style-position: inside;">
-        <li>Respond to customer sales leads and incoming correspondence via email, ensuring a timely and accurate response.</li>
-        <li>Receive incoming calls assisting customers on the phone.</li>
+        <li>Develop new sales channels, respond to customer sales leads and incoming correspondence via email, and phone ensuring a timely and accurate response.</li>
+        <li>Provide timely customer service to maintain current accounts; Handle a variety of client concerns advising the sales manager of actions taken.</li>
         <li>Periodically attend events and trade shows to develop and accumulate new leads.</li>
-        <li>Lead tours of our facility as necessary.</li>
-        <li>Occasionally travel to check-up on and maintain client account relationships.</li>
-			<li>Work with other departments cross-functionally within the company to ensure high levels of customer satisfaction. </li>
-			<li>Utilize an organized and comprehensive method for department documents ensuring ease use and collaboration with others.</li>
-			<li>Handle a variety of client situations advising the sales manager of actions taken.</li>
+        <li>Occasionally travel to meet with client accounts</li>
+        <li>Work with other departments within the company to ensure high levels of customer satisfaction.</li>
+			<li>Utilize an organized and comprehensive method for documentation to collaborate within the department and cross-functionally</li>
+			<li>Work with Sales Support team assisting clients via phone, email and in person during times of high volume.</li>
 			<li>Provide feedback for streamlining processes and increasing efficiency for the sales department. </li>
 			<li>Work with Sales Support team assisting clients via phone, email and in person during times of high volume. </li>
 			<li>Maintain a professional office environment at all times.</li>
@@ -608,7 +607,9 @@
 			<li>2-3 years sales experience required.</li>
 		  	<li>High attention to detail.</li>
 		  	<li>Typing speed > 40 wpm.</li>
+			<li>Basic spreadsheet skills</li>
 		  	<li>Experience working in a fast paced, team environment.</li>
+			<li>Must be highly adaptable, able to deal with an ever changing work environment</li>
 		  	<li>Deep knowledge of—or, aptitude for quick learning about—the 3D printing industry, and Free Software, Libre Innovation, and Open Source Hardware (FLO) tools and Free Culture licenses.</li>
 		</ol></br>
 		<p>Travel Expectations: </p>
